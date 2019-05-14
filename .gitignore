@@ -1,0 +1,7 @@
+*.o
+*.pcd
+*.ply
+*.yml
+!structure.yml
+!border.yml
+
